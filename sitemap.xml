@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://myutsav.org/Home.html</loc>
-        <lastmod>2025-10-19T12:23:24+05:30</lastmod>
+        <lastmod>2025-10-27T16:16:50+05:30</lastmod>
     </url>
     <url>
         <loc>https://myutsav.org/index.html</loc>
-        <lastmod>2025-10-19T12:23:24+05:30</lastmod>
+        <lastmod>2025-10-27T16:16:50+05:30</lastmod>
     </url>
     <url>
         <loc>https://myutsav.org/Contact.html</loc>
-        <lastmod>2025-10-18T00:25:19+05:30</lastmod>
+        <lastmod>2025-10-27T15:35:27+05:30</lastmod>
     </url>
     <url>
         <loc>https://myutsav.org/Register.html</loc>
-        <lastmod>2025-10-18T00:15:28+05:30</lastmod>
+        <lastmod>2025-10-27T15:06:01+05:30</lastmod>
     </url>
     <url>
         <loc>https://myutsav.org/About.html</loc>
-        <lastmod>2025-10-21T17:35:19+05:30</lastmod>
+        <lastmod>2025-10-27T15:35:08+05:30</lastmod>
+    </url>
+    <url>
+        <loc>https://myutsav.org/Donate.html</loc>
+        <lastmod>2025-10-27T16:13:59+05:30</lastmod>
     </url>
 </urlset>
